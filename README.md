@@ -1,6 +1,5 @@
 <div align='center'>
-  
-#
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitkunst&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitkunst&layout=compact&theme=github_dark)
 
