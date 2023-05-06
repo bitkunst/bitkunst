@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitkunst&show_icons=true&theme=github_dark)
 <p></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitkunst&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitkunst&layout=compact&theme=github_dark&size_weight=1&count_weight=0&hide=scss&exclude_repo=Teample,my-NodeJs,bitkunst.github.io)
 
 <!-- #
 <h3>👨‍💻 Me 👨‍💻</h3>
