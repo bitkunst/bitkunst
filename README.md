@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=AmazonS3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon_API_Gateway-FF4F8B?style=flat&logo=AmazonAPIGateway&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white"/>&nbsp;&nbsp;
+  <p></p>
   <img src="https://img.shields.io/badge/Amazon_Cloudwatch-FF4F8B?style=flat&logo=AmazonCloudwatch&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat&logo=AmazonSQS&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=flat&logo=AmazonCognito&logoColor=white"/>&nbsp;&nbsp;
